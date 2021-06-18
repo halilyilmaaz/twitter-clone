@@ -15,4 +15,6 @@ For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
+### still in development
+
 <img src = "https://github.com/halilyilmaaz/twitter-clone/blob/main/images/1.png" height="256">    <img src = "https://github.com/halilyilmaaz/twitter-clone/blob/main/images/2.png" height="256">    <img src = "https://github.com/halilyilmaaz/twitter-clone/blob/main/images/3.png" height="256">
