@@ -1,5 +1,4 @@
-{
-  "menus": [
+
     {
       "key": "main",
       "description": "Siparişinizi oluşturun",
@@ -1246,5 +1245,3 @@
         }
       ]
     }
-  ]
-}
